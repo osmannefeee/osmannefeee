@@ -4,8 +4,8 @@
 </p>
 
 ### 🛠 Yetkinliklerim
-- **Backend:** C# .NET, Python, MSSQL
-- **Frontend:** React, HTML5, CSS3, JavaScript
+- **Backend:** C# .NET, Python
+- **Frontend:** HTML5, CSS3, JavaScript
 
 ### 🐍 Kod Yılanım (Günlük Aktivitem)
 ![Snake animation](https://raw.githubusercontent.com/osmannefeee/osmannefeee/output/github-contribution-grid-snake.svg)
