@@ -9,9 +9,9 @@
 - **Frontend:** React, HTML5, CSS3, JavaScript
 
 ### 🐍 Kod Yılanım (Günlük Aktivitem)
-![Snake animation](https://raw.githubusercontent.com/[osmannefeee]/[osmannefeee]/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/osmannefeee/osmannefeee/output/github-contribution-grid-snake.svg)
 
 
 ### 📊 İstatistiklerim
-![Stats](https://github-readme-stats.vercel.app/api?username=[osmannefeee]&show_icons=true&theme=vision-friendly-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=osmannefeee&show_icons=true&theme=vision-friendly-dark)
 
