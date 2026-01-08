@@ -1,16 +1,15 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Z3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqHglL6ef82/giphy.gif" width="30px"> Selam, ben [osmannefeee]!
 
-<!--
-**osmannefeee/osmannefeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Full%20Stack%20Developer&fontSize=40&animation=fadeIn" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Yetkinliklerim
+- **Backend:** C# .NET, Python, MSSQL
+- **Frontend:** React, HTML5, CSS3, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Kod Yılanım (Günlük Aktivitem)
+![Snake animation](https://github.com/[osmannefeee]/[osmannefeee]/blob/output/github-contribution-grid-snake.svg)
+
+### 📊 İstatistiklerim
+![Stats](https://github-readme-stats.vercel.app/api?username=[osmannefeee]&show_icons=true&theme=vision-friendly-dark)
