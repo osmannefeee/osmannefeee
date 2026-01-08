@@ -13,6 +13,6 @@
 
 
 ### 📊 İstatistiklerim
-![Osman Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=osmannefeee&show_icons=true&theme=vision-friendly-dark)
+![Osman Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=osmannefeee&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmannefeee&layout=compact&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osmannefeee&layout=compact&theme=vision-friendly-dark&hide_border=true)
