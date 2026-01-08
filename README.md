@@ -13,7 +13,6 @@
 
 
 ### 📊 İstatistiklerim
-![Osman'ın Stats](https://github-readme-stats.vercel.app/api?username=osmannefeee&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Osman Stats](https://github-readme-stats.vercel.app/api?username=osmannefeee&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmannefeee&layout=compact&theme=vision-friendly-dark&hide_border=true)
-
