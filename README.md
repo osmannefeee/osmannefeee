@@ -13,3 +13,5 @@
 
 ### 📊 İstatistiklerim
 ![Stats](https://github-readme-stats.vercel.app/api?username=[osmannefeee]&show_icons=true&theme=vision-friendly-dark)
+
+![Snake animation](https://raw.githubusercontent.com/[osmannefeee]/[osmannefeee]/output/github-contribution-grid-snake.svg)
